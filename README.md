@@ -20,3 +20,8 @@ Put the "alpaca_on_terminal.py" file inside the Slicer directory ("C:\Users\ch13
 
 and from the Slicer Python console do : 
 exec(open("alpaca_on_terminal_hamsters.py").read())
+
+
+See other comments inside the code 
+
+Do not hesitate to email me at charlene.guillaumot@u-bourgogne.fr for any question or comment
