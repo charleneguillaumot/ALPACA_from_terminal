@@ -1,4 +1,5 @@
-# ALPACA_from_terminal
+# ALPACA_from_terminal and simple RIGID REGISTRATION
+## 0_ALPACA_predictions.py
 Python code to launch ALPACA/MALPACA in a batch terminal procedure
 
 ALPACA is a Slicer plugin (SlicerMorph)
@@ -21,7 +22,10 @@ Put the "alpaca_on_terminal.py" file inside the Slicer directory ("C:\Users\ch13
 and from the Slicer Python console do : 
 exec(open("alpaca_on_terminal_hamsters.py").read())
 
-
 See other comments inside the code 
+
+## 0_rigid_predictions.py
+Python code to only launch the rigid registration steps (+TPS), from the previous ALPACA code, in a batch terminal procedure
+
 
 Do not hesitate to email me at charlene.guillaumot@u-bourgogne.fr for any question or comment
